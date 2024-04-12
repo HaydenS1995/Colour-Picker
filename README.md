@@ -1,2 +1,0 @@
-# ColourPicker
-Gradient Colour Picker
