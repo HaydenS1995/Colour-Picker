@@ -1,0 +1,68 @@
+body {
+	font: 'Consolasch', sans-serif;
+    color: rgba(255,255,255,0.6);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+}
+
+h1 {
+    font: 3vw 'Consolasch', sans-serif;
+    color: rgba(255,255,255,0.6);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+h3, h2 {
+	font: 2vw 'Raleway', sans-serif;
+    color: rgba(255,255,255,1);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+input {
+    width: 48px;
+    margin: 5px;
+    height: 48px;
+}
+
+hr {
+    width: 100%;
+    
+}
+.randombutton {
+    font-size: 1rem;
+    padding: 1rem 0;
+    width:12rem;
+    text-align: center;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    border: #FFFFFF solid 1px;
+    color: white;
+    background-color: #ED174F;
+}
+
+.randombutton:hover {
+
+    
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(237, 23, 79, 0.5);
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+    
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.brandtext {
+    font-size:15px;
+}
+

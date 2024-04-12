@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Websites\\JavaScript"
+		},
+		{
+			"path": "..\\domevents"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"livePreview.defaultPreviewPath": "/Exercise 5/Index.html"
+	}
+}
